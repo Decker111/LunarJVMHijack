@@ -2,7 +2,6 @@
 #include "Main.h"
 #include "jni/jni.h"
 
-FILE* pFile = nullptr;
 
 
 void init()
